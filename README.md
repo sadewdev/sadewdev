@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://sadew.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hey+there%2C+I'm+Sadew+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+%26+LLM+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Hey+there%2C+I'm+Sadew+Anuhas+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+%26+LLM+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p align="center">
